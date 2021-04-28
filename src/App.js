@@ -5,7 +5,7 @@ import './app.styles.scss'
 
 class App extends Component {
   render() {
-    // let data = 'data is bad'
+    let data = 'data is bad'
 
     return (
       <div className='flex items-center justify-center h-screen'>
